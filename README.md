@@ -7,3 +7,8 @@
 - Using git via VSCode
   - Creating and using a .gitignore file
   - Diff split screen
+
+## What I learned:
+- Gained experience using git via your CLI and Visual Studio Code (VSCode) Source Control
+- Gained experience writing and executing non-web server Node.js JavaScript code
+- Practiced refactoring JavaScript code
